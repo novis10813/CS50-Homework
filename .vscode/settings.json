@@ -2,6 +2,7 @@
     "git.ignoreLimitWarning": true,
     "files.associations": {
         "*.rmd": "markdown",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "cs50.h": "c"
     }
 }

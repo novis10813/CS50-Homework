@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <cs50.c>
+#include <cs50.h>
 
 
 void pyramid(int n)
