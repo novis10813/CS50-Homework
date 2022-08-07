@@ -1,0 +1,1 @@
+*** Homework 7 is not done by myself cause I'm not interested in SQL ***
